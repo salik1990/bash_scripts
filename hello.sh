@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Helle There"
-echo "Shell scripting is a powerful way to automate tasks and manage system operations through a series of command-line instructions written in a script file. It enables users to create scripts for repetitive tasks, system monitoring, and software management, enhancing efficiency and productivity in Unix-based systems."
+echo -e "\e[1;4;31mHelle There\e[0m"
+echo -e "\e[31mShell scripting\e[0m is a powerful way to: \e[32m\n-Automate tasks\e[0m \e[32m\n-Manage system operations\e[0m\nthrough a series of command-line instructions written in a script file. It enables users to create scripts for:\n\e[34m-repetitive tasks\e[0, \e[34m\n-system monitoring\e[0m, \e[34m\n-software management\e[0m,\n\e[34m-enhancing efficiency\e[0m\n\e[34m-productivity\e[0m\nin Unix-based systems."
