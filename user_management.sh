@@ -4,8 +4,7 @@
     It will ask user for an option to delete or create user.
     It will take username and password as command line arguments for user creation and deletion.
 Brief
-username=$1
-password=$2
+
 
 display_menu ()
 {
