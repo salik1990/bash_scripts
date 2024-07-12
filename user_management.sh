@@ -2,7 +2,7 @@
 <<Brief
     This is Script to automate User management for developers/administrators.
     It will ask user for an option to delete or create user.
-    It will take username and password as command line arguments for user creation and deletion.
+    It will take username and password as input for user creation and deletion.
 Brief
 
 
